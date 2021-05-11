@@ -1,5 +1,6 @@
-# vue3-task2
+# vue3-task3
 
+Курсовая работа, выполненная в процессе обучения технологии Vue3 по курсу от Vladilen Minin
 ## Project setup
 ```
 npm install
@@ -17,3 +18,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
